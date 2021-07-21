@@ -6,7 +6,7 @@ game files.
 - `Python 3.x` (Tested with Python version 3.8)
 
 # Run and use
-To run and use the script, simply enter below command line in script folder and
+To run and use the script, simply clone this repository, enter below command line in script folder and
 follow the displaying instructions.
 
 ```bash
